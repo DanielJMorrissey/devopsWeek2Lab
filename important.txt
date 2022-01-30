@@ -1,0 +1,1 @@
+I have tried to use chmod permission changes on git bash on windows 10 but it seems that windows does not support that.
